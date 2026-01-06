@@ -53,6 +53,11 @@ The result was that even a few grams placed on the flexure spring could be measu
 
 ![Voltage vs Mass](./pictures/Voltage%20vs%20Mass.png)
 
+Three flexure spring designs are compared: the spiral design, the kirigami design with 4 concentric cuts, and the one with 3 concentric cuts. 
+
+The kirigami design with 4 concentric cuts had 7% reduced voltage change compared to the traditional design. Since resistance changes are small and the material remains in elastic deformation, voltage changes remain directly proportional to stress. The 7% reduction in voltage measurement translates to a comparable reduction in maximum stress.
+
+
 ## Future Work
 
 Future work includes conducting SolidWorks Design Studies on the kirigami design parameters and developing similarly nuanced claims about the effect of kirigami spring design on lifetime.
@@ -72,30 +77,30 @@ Dr. Carl S. Kirkconnel shared thoughts on the potential weaknesses of the kiriga
 
 Original CAD model for spiral flexure spring provided by Dr. Rana
 
-[Software]
-SolidWorks Design Premium for Students
-SolidWorks Design Help: “Stress-Life Cycle (S-N) Curve” and “Theory of Cumulative Damage”
-SolidWorks Simulation, SolidWorks Fatigue
-Python (Matplotlib), Jupyter Notebook, Google Colab
-Paul Falstad’s Circuit Simulator Applet
+__Software__  
+SolidWorks Design Premium for Students  
+SolidWorks Design Help: “Stress-Life Cycle (S-N) Curve” and “Theory of Cumulative Damage”  
+SolidWorks Simulation, SolidWorks Fatigue  
+Python (Matplotlib), Jupyter Notebook, Google Colab  
+Paul Falstad’s Circuit Simulator Applet  
 
-[Materials and Circuit Components]
-Resistors: 10, 100, 10k, 1M ohm
-Capacitors: 100 nF
-Breadboards & jumper wires
-Guoelephant M40 Instant Adhesive
-Arduino ESP8266
-Optix Acrylic Sheets
-SHUATI Slotted Weight Set
-BF120-10AA, BF350-3AA Strain Gauges
+__Materials and Circuit Components__  
+Resistors: 10, 100, 10k, 1M ohm  
+Capacitors: 100 nF  
+Breadboards & jumper wires  
+Guoelephant M40 Instant Adhesive  
+Arduino ESP8266  
+Optix Acrylic Sheets  
+SHUATI Slotted Weight Set  
+BF120-10AA, BF350-3AA Strain Gauges  
 
-[Devices & ICs]
-LM358 Operational Amplifier (Low-Power, Single-Rail)
-Kaiweets KM100 Digital Multimeter
-FNIRSI 2C53T Multimeter
-xTools P2S Laser Cutter at public library
+__Devices & ICs__  
+LM358 Operational Amplifier (Low-Power, Single-Rail)  
+Kaiweets KM100 Digital Multimeter  
+FNIRSI 2C53T Multimeter  
+xTools P2S Laser Cutter at public library  
 
-[Key References]
+## Selected References
 1. R Radebaugh. “Cryocoolers: the state of the art and recent developments*”. In: J. Phys.: Condens. Matter 21.16 (Mar. 2009), p. 164219. doi: 10.1088/0953-8984/21/16/164219.
 2. H Rana et al. “Compressor stroke and frequency response measurements using strain gauges”. In: Cryocoolers 22: Proceedings of the International Cryocooler Conference. pp. 211. Boulder, CO: International Cryocooler Conference, Inc., 2022.
 3. SolidWorks. SolidWorks User Manual. Dassault Systemes. 2024.
