@@ -78,11 +78,11 @@ Dr. Carl S. Kirkconnel shared thoughts on the potential weaknesses of the kiriga
 Original CAD model for spiral flexure spring provided by Dr. Rana
 
 __Software__  
-SolidWorks Design Premium for Students  
-SolidWorks Design Help: “Stress-Life Cycle (S-N) Curve” and “Theory of Cumulative Damage”  
-SolidWorks Simulation, SolidWorks Fatigue  
+[SolidWorks Design Premium for Students](https://www.solidworks.com/product/students)  
+SolidWorks Design Help: [“Stress-Life Cycle (S-N) Curve”](https://help.solidworks.com/2023/english/SolidWorks/cworks/c_sn_curve.htm) and [“Theory of Cumulative Damage”](https://help.solidworks.com/2023/english/SolidWorks/cworks/c_Theory_of_Cumulative_Damage.htm?id=26.6.7.4)
+[SolidWorks Simulation](https://www.solidworks.com/product/solidworks-simulation), SolidWorks Fatigue  
 Python (Matplotlib), Jupyter Notebook, Google Colab  
-Paul Falstad’s Circuit Simulator Applet  
+[Paul Falstad’s Circuit Simulator Applet](https://www.falstad.com/circuit/)  
 
 __Materials and Circuit Components__  
 Resistors: 10, 100, 10k, 1M ohm  
@@ -101,8 +101,8 @@ FNIRSI 2C53T Multimeter
 xTools P2S Laser Cutter at public library  
 
 ## Selected References
-1. R Radebaugh. “Cryocoolers: the state of the art and recent developments*”. In: J. Phys.: Condens. Matter 21.16 (Mar. 2009), p. 164219. doi: 10.1088/0953-8984/21/16/164219.
+1. R Radebaugh. “Cryocoolers: the state of the art and recent developments*”. In: J. Phys.: Condens. Matter 21.16 (Mar. 2009), p. 164219. doi: https://doi.org/10.1088/0953-8984/21/16/164219.
 2. H Rana et al. “Compressor stroke and frequency response measurements using strain gauges”. In: Cryocoolers 22: Proceedings of the International Cryocooler Conference. pp. 211. Boulder, CO: International Cryocooler Conference, Inc., 2022.
 3. SolidWorks. SolidWorks User Manual. Dassault Systemes. 2024.
-4. A T A M de Waele. “Basic operation of cryocoolers and related thermal machines”. In: J. Low Temp. Phys. 164.5 (2011), pp. 179–236. doi: 10.1007/s10909-011-0373-x.
+4. A T A M de Waele. “Basic operation of cryocoolers and related thermal machines”. In: J. Low Temp. Phys. 164.5 (2011), pp. 179–236. doi: https://doi.org/10.1007/s10909-011-0373-x.
 5. A S Gaunekar, T G¨oddenhenrich, and C Heiden. “Finite element analysis and testing of flexure bearing elements”. In: Cryogenics 36.5 (1996), pp. 359–364. doi: https://doi.org/10.1016/0011-2275(96)81106-4.
